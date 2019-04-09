@@ -39,7 +39,7 @@ end
 
 def play(board)
   
-  while valid_move(board, index) == true
+  while valid_move() == true
   turn(board)
   end
   
