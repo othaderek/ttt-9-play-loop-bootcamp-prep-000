@@ -39,7 +39,6 @@ end
 
 def play(board)
   
-  loop do
-    
+  
   
 end
