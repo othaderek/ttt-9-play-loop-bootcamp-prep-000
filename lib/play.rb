@@ -38,6 +38,7 @@ end
 # Define your play method below
 
 def play(board)
+  
   while valid_move(board, index) == true
   turn(board)
   end
